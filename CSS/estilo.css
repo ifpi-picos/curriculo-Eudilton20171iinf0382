@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+body {
+    background-image:url(https://images.pexels.com/photos/1172675/pexels-photo-1172675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img {
+    border-radius: 100%;
+}
+body {
+    color:whitesmoke;
+}
